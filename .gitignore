@@ -1,0 +1,11 @@
+# Entorno de Python y Base de datos local
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Entorno de Node/React
+Cliente/**/node_modules/
+
+# Otras carpetas que no quieres subir
+Servidor/
